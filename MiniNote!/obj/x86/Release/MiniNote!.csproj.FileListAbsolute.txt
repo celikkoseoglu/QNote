@@ -1,0 +1,84 @@
+C:\Users\Çelik\Desktop\MiniNote!\MiniNote!\bin\Release\MiniNote!.exe
+C:\Users\Çelik\Desktop\MiniNote!\MiniNote!\bin\Release\MiniNote!.pdb
+C:\Users\Çelik\Desktop\MiniNote!\MiniNote!\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Çelik\Desktop\MiniNote!\MiniNote!\obj\x86\Release\MainWindow.baml
+C:\Users\Çelik\Desktop\MiniNote!\MiniNote!\obj\x86\Release\MainWindow.g.cs
+C:\Users\Çelik\Desktop\MiniNote!\MiniNote!\obj\x86\Release\App.g.cs
+C:\Users\Çelik\Desktop\MiniNote!\MiniNote!\obj\x86\Release\MiniNote!_MarkupCompile.cache
+C:\Users\Çelik\Desktop\MiniNote!\MiniNote!\obj\x86\Release\MiniNote!.g.resources
+C:\Users\Çelik\Desktop\MiniNote!\MiniNote!\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Çelik\Desktop\MiniNote!\MiniNote!\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Çelik\Desktop\MiniNote!\MiniNote!\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Çelik\Desktop\MiniNote!\MiniNote!\obj\x86\Release\MiniNote!.exe
+C:\Users\Çelik\Desktop\MiniNote!\MiniNote!\obj\x86\Release\MiniNote!.pdb
+C:\Users\Celik\Desktop\MiniNote!\MiniNote!\bin\Release\QNote.exe
+C:\Users\Celik\Desktop\MiniNote!\MiniNote!\bin\Release\QNote.pdb
+C:\Users\Celik\Desktop\MiniNote!\MiniNote!\obj\x86\Release\MainWindow.baml
+C:\Users\Celik\Desktop\MiniNote!\MiniNote!\obj\x86\Release\MainWindow.g.cs
+C:\Users\Celik\Desktop\MiniNote!\MiniNote!\obj\x86\Release\App.g.cs
+C:\Users\Celik\Desktop\MiniNote!\MiniNote!\obj\x86\Release\QNote_MarkupCompile.cache
+C:\Users\Celik\Desktop\MiniNote!\MiniNote!\obj\x86\Release\QNote.g.resources
+C:\Users\Celik\Desktop\MiniNote!\MiniNote!\obj\x86\Release\QNote.Properties.Resources.resources
+C:\Users\Celik\Desktop\MiniNote!\MiniNote!\obj\x86\Release\MiniNote!.csproj.GenerateResource.Cache
+C:\Users\Celik\Desktop\MiniNote!\MiniNote!\obj\x86\Release\QNote.exe
+C:\Users\Celik\Desktop\MiniNote!\MiniNote!\obj\x86\Release\QNote.pdb
+C:\Users\Celik\Desktop\QNote\MiniNote!\bin\Release\QNote.exe
+C:\Users\Celik\Desktop\QNote\MiniNote!\bin\Release\QNote.pdb
+C:\Users\Celik\Desktop\QNote\MiniNote!\obj\x86\Release\MainWindow.baml
+C:\Users\Celik\Desktop\QNote\MiniNote!\obj\x86\Release\MainWindow.g.cs
+C:\Users\Celik\Desktop\QNote\MiniNote!\obj\x86\Release\App.g.cs
+C:\Users\Celik\Desktop\QNote\MiniNote!\obj\x86\Release\QNote_MarkupCompile.cache
+C:\Users\Celik\Desktop\QNote\MiniNote!\obj\x86\Release\QNote.g.resources
+C:\Users\Celik\Desktop\QNote\MiniNote!\obj\x86\Release\QNote.Properties.Resources.resources
+C:\Users\Celik\Desktop\QNote\MiniNote!\obj\x86\Release\MiniNote!.csproj.GenerateResource.Cache
+C:\Users\Celik\Desktop\QNote\MiniNote!\obj\x86\Release\QNote.exe
+C:\Users\Celik\Desktop\QNote\MiniNote!\obj\x86\Release\QNote.pdb
+C:\Users\Celik\Desktop\QNote\MiniNote!\bin\Release\QNote.exe.config
+C:\Users\Celik\Desktop\QNote\MiniNote!\obj\x86\Release\options.baml
+C:\Users\Celik\Desktop\QNote\MiniNote!\obj\x86\Release\options.g.cs
+C:\Users\Çelik\Desktop\QNote\MiniNote!\bin\Release\QNote.exe.config
+C:\Users\Çelik\Desktop\QNote\MiniNote!\bin\Release\QNote.exe
+C:\Users\Çelik\Desktop\QNote\MiniNote!\bin\Release\QNote.pdb
+C:\Users\Çelik\Desktop\QNote\MiniNote!\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Çelik\Desktop\QNote\MiniNote!\obj\x86\Release\MainWindow.baml
+C:\Users\Çelik\Desktop\QNote\MiniNote!\obj\x86\Release\options.baml
+C:\Users\Çelik\Desktop\QNote\MiniNote!\obj\x86\Release\MainWindow.g.cs
+C:\Users\Çelik\Desktop\QNote\MiniNote!\obj\x86\Release\options.g.cs
+C:\Users\Çelik\Desktop\QNote\MiniNote!\obj\x86\Release\App.g.cs
+C:\Users\Çelik\Desktop\QNote\MiniNote!\obj\x86\Release\QNote_MarkupCompile.cache
+C:\Users\Çelik\Desktop\QNote\MiniNote!\obj\x86\Release\QNote.g.resources
+C:\Users\Çelik\Desktop\QNote\MiniNote!\obj\x86\Release\QNote.Properties.Resources.resources
+C:\Users\Çelik\Desktop\QNote\MiniNote!\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Çelik\Desktop\QNote\MiniNote!\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Çelik\Desktop\QNote\MiniNote!\obj\x86\Release\QNote.exe
+C:\Users\Çelik\Desktop\QNote\MiniNote!\obj\x86\Release\QNote.pdb
+E:\Software\My Applications\QNote\MiniNote!\bin\Release\QNote.exe.config
+E:\Software\My Applications\QNote\MiniNote!\obj\x86\Release\QNote.exe
+E:\Software\My Applications\QNote\MiniNote!\obj\x86\Release\QNote.pdb
+E:\Software\My Applications\QNote\MiniNote!\bin\Release\QNote.exe
+E:\Software\My Applications\QNote\MiniNote!\bin\Release\QNote.pdb
+E:\Software\My Applications\QNote\MiniNote!\obj\x86\Release\MiniNote!.csprojResolveAssemblyReference.cache
+E:\Software\My Applications\QNote\MiniNote!\obj\x86\Release\MainWindow.baml
+E:\Software\My Applications\QNote\MiniNote!\obj\x86\Release\options.baml
+E:\Software\My Applications\QNote\MiniNote!\obj\x86\Release\MainWindow.g.cs
+E:\Software\My Applications\QNote\MiniNote!\obj\x86\Release\options.g.cs
+E:\Software\My Applications\QNote\MiniNote!\obj\x86\Release\App.g.cs
+E:\Software\My Applications\QNote\MiniNote!\obj\x86\Release\QNote_MarkupCompile.cache
+E:\Software\My Applications\QNote\MiniNote!\obj\x86\Release\QNote.g.resources
+E:\Software\My Applications\QNote\MiniNote!\obj\x86\Release\QNote.Properties.Resources.resources
+E:\Software\My Applications\QNote\MiniNote!\obj\x86\Release\MiniNote!.csproj.GenerateResource.Cache
+H:\Software\My Applications\Windows Desktop\QNote\MiniNote!\bin\Release\QNote.exe.config
+H:\Software\My Applications\Windows Desktop\QNote\MiniNote!\obj\x86\Release\QNote.exe
+H:\Software\My Applications\Windows Desktop\QNote\MiniNote!\obj\x86\Release\QNote.pdb
+H:\Software\My Applications\Windows Desktop\QNote\MiniNote!\bin\Release\QNote.exe
+H:\Software\My Applications\Windows Desktop\QNote\MiniNote!\bin\Release\QNote.pdb
+H:\Software\My Applications\Windows Desktop\QNote\MiniNote!\obj\x86\Release\MiniNote!.csprojResolveAssemblyReference.cache
+H:\Software\My Applications\Windows Desktop\QNote\MiniNote!\obj\x86\Release\MainWindow.baml
+H:\Software\My Applications\Windows Desktop\QNote\MiniNote!\obj\x86\Release\options.baml
+H:\Software\My Applications\Windows Desktop\QNote\MiniNote!\obj\x86\Release\MainWindow.g.cs
+H:\Software\My Applications\Windows Desktop\QNote\MiniNote!\obj\x86\Release\options.g.cs
+H:\Software\My Applications\Windows Desktop\QNote\MiniNote!\obj\x86\Release\App.g.cs
+H:\Software\My Applications\Windows Desktop\QNote\MiniNote!\obj\x86\Release\QNote_MarkupCompile.cache
+H:\Software\My Applications\Windows Desktop\QNote\MiniNote!\obj\x86\Release\QNote.g.resources
+H:\Software\My Applications\Windows Desktop\QNote\MiniNote!\obj\x86\Release\QNote.Properties.Resources.resources
+H:\Software\My Applications\Windows Desktop\QNote\MiniNote!\obj\x86\Release\MiniNote!.csproj.GenerateResource.Cache
